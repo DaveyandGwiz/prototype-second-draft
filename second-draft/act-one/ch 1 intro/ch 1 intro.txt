@@ -361,6 +361,15 @@ I used to eat more often but now only when I have too sit down with Ava and ROll
 It's not that I perticularly dislike eating, I just like doing other things with my time anyway. Eating most food just wighs me down and makes me feel glutonus,
 so even if I'm a robot and cant gain weight I still hate the way eating makes me feel. In this way I'm the total opposite of Roll, who takes full advantage of her robotic body in this respect.
 If eveyday roll had access to a dessert buffet, I'm sure she'd eatchere for everymeal everyday.
+--- 
+// do I want to finish this scene?
+What about when rocky talks about the updates to his hand.
+Anyway rocky, youve been playing that thing since we got here.
+// you know now I'm not sure I want to write that part.
+// the next scene is the recital. That's what's in my outline. 
+// I tried to add an exptra scene previously, but it just became an exploration. It's fine. I'll revisit tomorrow.
+
+
 
 I used to force myself to eat when I was at school. Thinking having food in my hands would make people think I was more normal, just like them. But it only served to create a public 
 spectical a couple times. 
@@ -375,7 +384,14 @@ I never ate my lunch and would usually throw it awway before leaving back to cla
 "Hey... if you arent going to finsih that..."
 So I guess you could say that Qutre's imppresive appetite is basically the reason for our "friendship"
 If you could really call this a friendship.
+--- this is the rest of breakfast conversation.
+// I was going to have them discuss somethings before the breakfast but now I want to save that for later.
+// I feel like I'll just end the scene once they get to school. Let me check my outline.
+// This was really just exploratory writing.
+// In my outline the conversation durning a meal is during lunch I want to go with that and skip the recital for now.
+// I can have a line once rocky and quatre see eachother at school like "see you at music class!"
 
+---
 I was suprised at first last year when Quatre approached me during lunch.
 I was siting by myself per usual. 
 Though at that point, sitting with me was probabaly not an option. Whether you loved robots or hated them. The fact was that
@@ -481,8 +497,6 @@ And since then we've shared this table every lunch period.
 
 
 Quatre do you even talk to anybody at this 
-
-
 //
 Like a true gamer with just 10 minutes to spare before we need to leave, qutre pulls out a handheld gamming device out of his backpack.
 Of in the distance I see Roll seated at a table with most of the girls in her grade all the early risers.
@@ -503,7 +517,7 @@ I continue strumming
 
 
 ---
-Skip to recital.
+* SCENE: Recital
 
 The bell rings. Show time.
 Music is my last class before lunch break. And I'm totally ready. I walk to my locker and seeing my guitar case, briefly pause before running my hand along the 
